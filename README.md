@@ -1,5 +1,6 @@
 # HumanBehaviorModeling
 Modeling Human Behaviour from Smartphone data - Keras and Tensorflow
+The file titled "MLProject1" contains the code.
 
 Description of Dataset
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
@@ -25,3 +26,7 @@ Repeats the evaluation of the model multiple times, then summarizes the performa
 
 #run_experiment
 Loads the test and train data, repeats the evaluation based on the user's preference, gathers and summarizes the result.
+
+
+#ADDITIONAL NOTES
+For the prefix variable in the code, change the file path appropriately.
